@@ -1,0 +1,38 @@
+# German translations for b package.
+# Copyright (C) 2014 Francois PLANQUE
+# This file is distributed under the same license as the b package.
+# Keith <keith@localhost>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: b 2e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-30 23:51-0400\n"
+"PO-Revision-Date: 2015-04-30 23:53-0400\n"
+"Last-Translator: Keith <keith@localhost>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../../_icon_link.plugin.php:11
+msgid "Icon Link Plugin"
+msgstr "Ikon-Link-Plugin"
+
+#: ../../../_icon_link.plugin.php:12
+msgid "Puts &lt;link rel=\"icon\" &#8230;&gt; in the &lt;head&gt;"
+msgstr "Versetzt &lt;link rel=\"icon\" &#8230;&gt; in den &lt;head&gt;"
+
+#: ../../../_icon_link.plugin.php:35
+msgid "Icon URL"
+msgstr "Ikon-URL"
+
+#: ../../../_icon_link.plugin.php:40
+msgid "Icon type"
+msgstr "Ikon-Typ"
+
+#: ../../../_icon_link.plugin.php:42
+msgid "(e.g. image/png)"
+msgstr "(zB image/png)"

@@ -1,0 +1,38 @@
+# icon_link_plugin - Language file
+# Copyright (C) 2015 keith
+# This file is distributed under the same license as the icon_link_plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: icon_link_plugin 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-30 23:51-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../_icon_link.plugin.php:11
+msgid "Icon Link Plugin"
+msgstr ""
+
+#: ../../../_icon_link.plugin.php:12
+msgid "Puts &lt;link rel=\"icon\" &#8230;&gt; in the &lt;head&gt;"
+msgstr ""
+
+#: ../../../_icon_link.plugin.php:35
+msgid "Icon URL"
+msgstr ""
+
+#: ../../../_icon_link.plugin.php:40
+msgid "Icon type"
+msgstr ""
+
+#: ../../../_icon_link.plugin.php:42
+msgid "(e.g. image/png)"
+msgstr ""
