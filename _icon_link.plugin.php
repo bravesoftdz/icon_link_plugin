@@ -2,14 +2,14 @@
 
 class icon_link_plugin extends Plugin
 {
-	var $code = 'b2_icon_link';
-	var $version = '0.1';
-	var $author = 'https://github.com/keithbowes/link_icon_plugin';
+	public $code = 'b2_icon_link';
+	public $version = '0.1';
+	public $author = 'https://github.com/keithbowes/link_icon_plugin';
 
 	function PluginInit ( & $params )
 	{
 		$this->name = $this->T_('Icon Link Plugin');
-		$this->short_desc = $this->T_('Puts &lt;link rel="icon" &#8230;&gt; in the &lt;head&gt;');
+		$this->short_desc = $this->T_('Puts &lt;link rel="icon" &8230;8230;8230;&gt; in the &lt;head&gt;');
 	}
 
 	function SkinBeginHtmlHead ( & $params )
